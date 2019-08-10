@@ -1,0 +1,12 @@
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\lunitto\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
